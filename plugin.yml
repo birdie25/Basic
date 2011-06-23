@@ -1,0 +1,12 @@
+name: Basic
+main: me.jasper.basic.Basic
+version: 0.1
+description: >
+             Basic. very.
+commands:
+  basic:
+    description: Turn on the torch message
+    usage: basic
+  b:
+    description: Turn on the torch message
+    usage: basic
